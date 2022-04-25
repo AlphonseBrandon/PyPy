@@ -2,34 +2,9 @@
 
 # Write a list
 
-# Rohan
+fruits = ["apple", "Banana", "orange"]
 
 
-# Rayhan
-
-
-# Write a set
-
-# Rohan
-
-
-# Rayhan
-
-
-# Write a dictionary
-
-# Rohan
-
-
-# Rayhan
-
-
-# Write a turple
-
-# ROhan
-
-
-# Rayhan
 
 
 
