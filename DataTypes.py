@@ -4,7 +4,15 @@
 
 fruits = ["apple", "Banana", "orange"]
 
+# print(fruits)
 
+# List indexing
+
+print(fruits[1])
+
+# Range
+
+print(fruits[:1])
 
 
 
